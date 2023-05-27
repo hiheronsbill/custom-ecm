@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>ecm-server</artifactId>
+        <groupId>com.ecm.server</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ecm.service</groupId>
+    <artifactId>ecm-service</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>ecm-service-business</module>
+        <module>ecm-service-archive</module>
+        <module>ecm-service-search</module>
+        <module>ecm-service-config</module>
+    </modules>
+
+
+</project>

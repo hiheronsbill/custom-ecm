@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-mongo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-archive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecm-server/ecm-web/src/main/java" charset="UTF-8" />
+  </component>
+</project>

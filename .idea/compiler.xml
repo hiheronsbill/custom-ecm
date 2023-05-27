@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ecm-common" />
+        <module name="ecm-service-config" />
+        <module name="ecm-service-archive" />
+        <module name="ecm-data-mysql" />
+        <module name="ecm-data-proxy" />
+        <module name="ecm-service-search" />
+        <module name="ecm-data-mongo" />
+        <module name="ecm-service-business" />
+        <module name="ecm-web" />
+        <module name="ecm-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ecm-common" target="1.8" />
+      <module name="ecm-data" target="1.8" />
+      <module name="ecm-data-mongo" target="1.8" />
+      <module name="ecm-data-mysql" target="1.8" />
+      <module name="ecm-data-proxy" target="1.8" />
+      <module name="ecm-domain" target="1.8" />
+      <module name="ecm-server" target="1.8" />
+      <module name="ecm-service" target="1.8" />
+      <module name="ecm-service-archive" target="1.8" />
+      <module name="ecm-service-business" target="1.8" />
+      <module name="ecm-service-config" target="1.8" />
+      <module name="ecm-service-search" target="1.8" />
+      <module name="ecm-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ecm-common" options="-parameters" />
+      <module name="ecm-data" options="-parameters" />
+      <module name="ecm-data-mongo" options="-parameters" />
+      <module name="ecm-data-mysql" options="-parameters" />
+      <module name="ecm-data-proxy" options="-parameters" />
+      <module name="ecm-domain" options="-parameters" />
+      <module name="ecm-server" options="-parameters" />
+      <module name="ecm-service" options="-parameters" />
+      <module name="ecm-service-archive" options="-parameters" />
+      <module name="ecm-service-business" options="-parameters" />
+      <module name="ecm-service-config" options="-parameters" />
+      <module name="ecm-service-search" options="-parameters" />
+      <module name="ecm-web" options="-parameters" />
+    </option>
+  </component>
+</project>

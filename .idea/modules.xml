@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-common/ecm-common.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-common/ecm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-data/ecm-data.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-data/ecm-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-mongo/ecm-data-mongo.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-mongo/ecm-data-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-mysql/ecm-data-mysql.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-mysql/ecm-data-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-proxy/ecm-data-proxy.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-data/ecm-data-proxy/ecm-data-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-domain/ecm-domain.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-domain/ecm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-server.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-service/ecm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-archive/ecm-service-archive.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-archive/ecm-service-archive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-business/ecm-service-business.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-business/ecm-service-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-config/ecm-service-config.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-config/ecm-service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-search/ecm-service-search.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-service/ecm-service-search/ecm-service-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecm-server/ecm-web/ecm-web.iml" filepath="$PROJECT_DIR$/ecm-server/ecm-web/ecm-web.iml" />
+    </modules>
+  </component>
+</project>
